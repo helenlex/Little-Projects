@@ -1,0 +1,201 @@
+order_id,order_date,customer_id,region,product,category,quantity,unit_price,discount_pct,status
+1181,2026-01-02,4,VIC,Backpack,Accessories,5,85.58,0.0,Shipped
+1103,2026-01-03,39,QLD,Pen Pack,Stationery,7,11.17,10.0,Shipped
+1100,2026-01-06,18,VIC,Headphones,Electronics,4,172.78,15.0,Delivered
+1033,2026-01-06,34,QLD,Laptop,Electronics,6,1270.35,0.0,Delivered
+1169,2026-01-06,26,NSW,Monitor,Electronics,7,414.96,0.0,Cancelled
+1072,2026-01-07,33,NSW,Headphones,Electronics,2,182.7,5.0,Delivered
+1185,2026-01-09,17,NSW,Desk,Furniture,3,570.4,10.0,Shipped
+1128,2026-01-11,6,WA,Pen Pack,Stationery,5,10.96,5.0,Delivered
+1050,2026-01-12,12,NSW,Pen Pack,Stationery,1,10.87,15.0,Delivered
+1197,2026-01-13,24,VIC,Monitor,Electronics,5,406.71,15.0,Delivered
+1152,2026-01-13,16,WA,Monitor,Electronics,4,434.02,15.0,Shipped
+1079,2026-01-18,27,VIC,Office Chair,Furniture,3,315.14,15.0,Shipped
+1187,2026-01-19,28,VIC,Headphones,Electronics,1,191.27,,Cancelled
+1017,2026-01-22,39,VIC,Office Chair,Furniture,3,357.0,10.0,Delivered
+1046,2026-01-23,27,QLD,Backpack,Accessories,2,96.45,0.0,Shipped
+1080,2026-01-23,5,QLD,Notebook,Stationery,6,5.84,5.0,Delivered
+1159,2026-01-25,32,QLD,Office Chair,Furniture,3,309.3,5.0,Shipped
+1176,2026-01-26,15,NSW,Desk,Furniture,3,556.75,0.0,Delivered
+1043,2026-01-26,6,WA,Notebook,Stationery,3,5.46,0.0,Cancelled
+1018,2026-01-27,5,QLD,Headphones,Electronics,4,174.47,5.0,Delivered
+1058,2026-01-28,26,QLD,Headphones,Electronics,6,172.76,15.0,Delivered
+1110,2026-01-30,10,SA,Notebook,Stationery,1,5.97,0.0,Cancelled
+1122,2026-01-30,6,NSW,Notebook,Stationery,1,5.92,10.0,Delivered
+1165,2026-02-01,36,VIC,Desk,Furniture,4,563.56,5.0,Cancelled
+1113,2026-02-02,34,NSW,Office Chair,Furniture,2,361.4,15.0,Delivered
+1186,2026-02-03,37,VIC,Desk,Furniture,3,505.6,,Shipped
+1021,2026-02-04,38,WA,Office Chair,Furniture,1,358.86,0.0,Delivered
+1041,2026-02-07,39,NSW,Headphones,Electronics,5,188.62,10.0,Delivered
+1106,2026-02-07,19,WA,Pen Pack,Stationery,2,12.15,15.0,Delivered
+1129,2026-02-08,37,NSW,Office Chair,Furniture,4,336.95,0.0,Delivered
+1056,2026-02-09,23,VIC,Laptop,Electronics,7,1357.45,,Cancelled
+1157,2026-02-10,30,SA,Headphones,Electronics,1,173.91,0.0,Delivered
+1073,2026-02-10,18,VIC,Desk,Furniture,6,571.75,0.0,Shipped
+1190,2026-02-11,34,VIC,Monitor,Electronics,1,459.07,10.0,Cancelled
+1087,2026-02-13,14,QLD,Laptop,Electronics,6,1377.71,0.0,Shipped
+1150,2026-02-14,28,QLD,Laptop,Electronics,6,1495.54,10.0,Delivered
+1062,2026-02-16,6,NSW,Notebook,Stationery,5,6.46,5.0,Delivered
+1059,2026-02-17,34,VIC,Notebook,Stationery,3,6.11,15.0,Delivered
+1030,2026-02-17,29,NSW,Desk,Furniture,3,551.41,0.0,Cancelled
+1192,2026-02-18,37,QLD,Notebook,Stationery,2,5.9,15.0,Delivered
+1051,2026-02-18,39,QLD,Pen Pack,Stationery,4,11.76,0.0,Delivered
+1149,2026-02-18,21,NSW,Pen Pack,Stationery,5,12.67,10.0,Delivered
+1053,2026-02-20,20,VIC,Monitor,Electronics,4,465.45,0.0,Delivered
+1198,2026-02-23,32,QLD,Laptop,Electronics,7,1306.34,0.0,Cancelled
+1139,2026-02-24,22,QLD,Monitor,Electronics,6,440.47,0.0,Cancelled
+1024,2026-02-24,24,VIC,Backpack,Accessories,6,89.37,0.0,Cancelled
+1163,2026-03-02,20,SA,Desk,Furniture,6,472.93,0.0,Delivered
+1126,2026-03-04,13,WA,Office Chair,Furniture,6,308.79,10.0,Delivered
+1127,2026-03-05,37,NSW,Laptop,Electronics,6,1328.9,15.0,Delivered
+1115,2026-03-07,39,NSW,Office Chair,Furniture,2,359.56,5.0,Delivered
+1184,2026-03-07,3,NSW,Notebook,Stationery,4,6.12,15.0,Shipped
+1146,2026-03-11,3,QLD,Pen Pack,Stationery,4,11.97,15.0,Delivered
+1011,2026-03-12,7,VIC,Office Chair,Furniture,2,343.61,10.0,Delivered
+1180,2026-03-12,5,VIC,Office Chair,Furniture,1,364.17,10.0,Shipped
+1006,2026-03-13,21,VIC,Pen Pack,Stationery,7,12.68,15.0,Delivered
+1009,2026-03-13,38,NSW,Headphones,Electronics,6,188.37,0.0,Delivered
+1092,2026-03-14,35,NSW,Pen Pack,Stationery,4,12.95,15.0,Delivered
+1016,2026-03-15,28,NSW,Pen Pack,Stationery,6,12.56,0.0,Delivered
+1081,2026-03-16,12,VIC,Backpack,Accessories,7,82.21,15.0,Delivered
+1199,2026-03-17,26,VIC,Monitor,Electronics,6,470.27,0.0,Delivered
+1114,2026-03-17,33,WA,Desk,Furniture,3,561.87,10.0,Shipped
+1099,2026-03-18,38,VIC,Notebook,Stationery,1,6.18,0.0,Shipped
+1142,2026-03-20,3,,Headphones,Electronics,3,166.03,10.0,Delivered
+1071,2026-03-21,30,QLD,Pen Pack,Stationery,5,11.13,10.0,Delivered
+1063,2026-03-22,30,NSW,Monitor,Electronics,2,421.88,0.0,Cancelled
+1153,2026-03-22,34,QLD,Backpack,Accessories,4,85.36,5.0,Delivered
+1107,2026-03-23,22,NSW,Pen Pack,Stationery,2,12.7,15.0,Delivered
+1026,2026-03-24,8,QLD,Notebook,Stationery,1,5.89,15.0,Cancelled
+1133,2026-03-25,7,QLD,Laptop,Electronics,6,1291.25,10.0,Cancelled
+1200,2026-03-25,26,VIC,Backpack,Accessories,5,93.75,5.0,Delivered
+1039,2026-03-25,4,NSW,Monitor,Electronics,4,474.63,0.0,Delivered
+1138,2026-03-27,5,VIC,Laptop,Electronics,3,1344.58,0.0,Delivered
+1109,2026-03-27,11,NSW,Desk,Furniture,7,513.59,0.0,Delivered
+1168,2026-03-27,10,SA,Headphones,Electronics,3,163.13,0.0,Delivered
+1121,2026-03-28,15,QLD,Desk,Furniture,1,521.32,0.0,Delivered
+1054,2026-03-31,1,VIC,Desk,Furniture,7,492.72,5.0,Delivered
+1094,2026-03-31,25,QLD,Desk,Furniture,3,501.84,0.0,Shipped
+1171,2026-04-01,38,VIC,Laptop,Electronics,5,1327.66,,Cancelled
+1068,2026-04-04,24,QLD,Monitor,Electronics,5,494.89,10.0,Shipped
+1101,2026-04-09,5,NSW,Pen Pack,Stationery,4,11.38,0.0,Delivered
+1001,2026-04-09,40,QLD,Laptop,Electronics,6,1393.7,0.0,Delivered
+1193,2026-04-10,10,,Office Chair,Furniture,2,327.6,0.0,Delivered
+1174,2026-04-11,2,NSW,Notebook,Stationery,2,6.42,0.0,Delivered
+1132,2026-04-11,7,QLD,Office Chair,Furniture,5,309.47,15.0,Delivered
+1179,2026-04-13,36,QLD,Backpack,Accessories,2,94.91,0.0,Delivered
+1173,2026-04-21,12,NSW,Pen Pack,Stationery,3,12.22,0.0,Shipped
+1048,2026-04-23,39,NSW,Backpack,Accessories,5,90.26,,Delivered
+1075,2026-04-23,26,NSW,Notebook,Stationery,4,6.11,10.0,Delivered
+1038,2026-04-27,38,QLD,Pen Pack,Stationery,1,12.51,5.0,Delivered
+1154,2026-04-28,13,NSW,Monitor,Electronics,7,448.19,,Delivered
+1098,2026-04-29,15,NSW,Notebook,Stationery,6,6.11,0.0,Cancelled
+1085,2026-04-30,19,VIC,Notebook,Stationery,2,6.16,0.0,Shipped
+1019,2026-05-01,12,,Pen Pack,Stationery,1,11.1,0.0,Delivered
+1067,2026-05-01,7,QLD,Backpack,Accessories,7,95.53,10.0,Delivered
+1014,2026-05-02,6,VIC,Pen Pack,Stationery,3,13.16,10.0,Delivered
+1005,2026-05-04,20,WA,Desk,Furniture,1,568.17,0.0,Delivered
+1022,2026-05-04,28,VIC,Monitor,Electronics,1,449.07,0.0,Shipped
+1135,2026-05-05,24,NSW,Pen Pack,Stationery,5,10.95,15.0,Delivered
+1031,2026-05-06,4,QLD,Desk,Furniture,4,564.17,5.0,Delivered
+1077,2026-05-07,34,SA,Monitor,Electronics,5,487.38,0.0,Delivered
+1167,2026-05-07,10,QLD,Monitor,Electronics,1,421.95,5.0,Delivered
+1090,2026-05-08,25,WA,Pen Pack,Stationery,1,12.1,0.0,Delivered
+1076,2026-05-11,32,NSW,Desk,Furniture,2,508.81,15.0,Delivered
+1082,2026-05-12,34,SA,Desk,Furniture,7,489.01,0.0,Delivered
+1084,2026-05-13,32,VIC,Pen Pack,Stationery,4,11.89,10.0,Cancelled
+1052,2026-05-14,37,NSW,Headphones,Electronics,3,194.24,0.0,Delivered
+1003,2026-05-14,13,VIC,Notebook,Stationery,4,6.48,10.0,Delivered
+1035,2026-05-14,18,NSW,Backpack,Accessories,1,81.88,0.0,Delivered
+1144,2026-05-20,7,NSW,Desk,Furniture,6,468.13,0.0,Delivered
+1096,2026-05-21,17,VIC,Monitor,Electronics,1,452.66,10.0,Cancelled
+1166,2026-05-21,10,QLD,Pen Pack,Stationery,1,10.82,15.0,Shipped
+1151,2026-05-24,33,NSW,Pen Pack,Stationery,3,11.42,15.0,Cancelled
+1105,2026-05-27,11,SA,Pen Pack,Stationery,3,11.48,15.0,Delivered
+1089,2026-05-27,31,NSW,Pen Pack,Stationery,5,12.6,15.0,Delivered
+1095,2026-05-28,12,NSW,Backpack,Accessories,3,97.36,0.0,Delivered
+1029,2026-05-28,2,QLD,Office Chair,Furniture,4,343.77,0.0,Shipped
+1131,2026-05-28,24,SA,Office Chair,Furniture,3,327.25,10.0,Delivered
+1108,2026-05-30,10,WA,Notebook,Stationery,7,6.34,15.0,Delivered
+1130,2026-05-30,37,WA,Notebook,Stationery,5,6.02,0.0,Cancelled
+1088,2026-06-04,22,SA,Monitor,Electronics,7,491.33,0.0,Delivered
+1028,2026-06-06,33,VIC,Pen Pack,Stationery,2,11.0,5.0,Cancelled
+1066,2026-06-06,39,VIC,Monitor,Electronics,3,469.59,0.0,Delivered
+1042,2026-06-07,13,SA,Pen Pack,Stationery,6,12.72,0.0,Delivered
+1060,2026-06-08,5,VIC,Notebook,Stationery,3,5.88,0.0,Shipped
+1070,2026-06-09,38,WA,Desk,Furniture,1,510.43,10.0,Shipped
+1194,2026-06-11,40,NSW,Monitor,Electronics,5,412.03,0.0,Shipped
+1069,2026-06-15,8,NSW,Laptop,Electronics,3,1342.98,5.0,Delivered
+1123,2026-06-15,8,NSW,Notebook,Stationery,2,5.44,5.0,Cancelled
+1143,2026-06-17,8,QLD,Monitor,Electronics,7,482.65,0.0,Cancelled
+1045,2026-06-19,21,QLD,Laptop,Electronics,5,1434.13,0.0,Shipped
+1040,2026-06-19,16,SA,Notebook,Stationery,6,6.44,0.0,Delivered
+1141,2026-06-21,29,WA,Backpack,Accessories,7,81.03,0.0,Delivered
+1044,2026-06-25,20,VIC,Monitor,Electronics,3,426.11,5.0,Cancelled
+1055,2026-06-28,24,VIC,Desk,Furniture,1,556.69,0.0,Delivered
+1116,2026-06-28,5,NSW,Office Chair,Furniture,4,318.59,15.0,Delivered
+1172,2026-06-28,17,VIC,Laptop,Electronics,5,1419.38,0.0,Cancelled
+1037,2026-06-29,23,NSW,Pen Pack,Stationery,7,12.42,0.0,Cancelled
+1111,2026-06-29,40,QLD,Monitor,Electronics,5,494.52,0.0,Delivered
+1112,2026-07-01,30,QLD,Pen Pack,Stationery,2,12.42,0.0,Cancelled
+1083,2026-07-01,11,QLD,Headphones,Electronics,7,162.64,0.0,Delivered
+1057,2026-07-02,6,QLD,Office Chair,Furniture,4,364.03,15.0,Delivered
+1004,2026-07-08,39,VIC,Desk,Furniture,7,542.95,0.0,Delivered
+1023,2026-07-10,31,NSW,Headphones,Electronics,7,197.48,15.0,Delivered
+1012,2026-07-13,10,,Backpack,Accessories,6,92.77,0.0,Shipped
+1025,2026-07-14,17,WA,Pen Pack,Stationery,6,13.15,5.0,Shipped
+1036,2026-07-14,5,QLD,Laptop,Electronics,6,1290.6,5.0,Delivered
+1195,2026-07-14,13,QLD,Backpack,Accessories,4,81.54,0.0,Shipped
+1118,2026-07-16,3,QLD,Headphones,Electronics,5,165.67,0.0,Delivered
+1117,2026-07-17,36,NSW,Laptop,Electronics,7,1417.41,5.0,Delivered
+1015,2026-07-18,1,VIC,Notebook,Stationery,4,5.75,0.0,Cancelled
+1177,2026-07-18,38,VIC,Notebook,Stationery,3,6.14,0.0,Cancelled
+1178,2026-07-21,21,QLD,Headphones,Electronics,2,167.86,0.0,Delivered
+1191,2026-07-21,33,QLD,Notebook,Stationery,3,5.66,5.0,Delivered
+1160,2026-07-22,35,QLD,Pen Pack,Stationery,3,11.91,5.0,Delivered
+1047,2026-07-24,13,SA,Desk,Furniture,2,468.47,0.0,Delivered
+1034,2026-07-24,6,WA,Office Chair,Furniture,3,331.34,15.0,Delivered
+1007,2026-07-26,18,VIC,Laptop,Electronics,6,1502.7,0.0,Delivered
+1120,2026-07-27,24,WA,Laptop,Electronics,4,1527.5,,Delivered
+1170,2026-07-28,23,VIC,Laptop,Electronics,7,1433.64,0.0,Delivered
+1010,2026-07-30,1,NSW,Laptop,Electronics,4,1383.22,0.0,Cancelled
+1078,2026-07-31,1,VIC,Headphones,Electronics,2,179.89,0.0,Cancelled
+1049,2026-08-01,21,VIC,Notebook,Stationery,5,6.21,15.0,Delivered
+1013,2026-08-02,12,NSW,Notebook,Stationery,2,6.56,10.0,Shipped
+1061,2026-08-03,29,SA,Backpack,Accessories,6,85.95,5.0,Shipped
+1091,2026-08-07,38,QLD,Desk,Furniture,4,497.59,10.0,Delivered
+1136,2026-08-07,7,NSW,Monitor,Electronics,1,467.84,10.0,Delivered
+1027,2026-08-07,35,WA,Desk,Furniture,1,550.54,5.0,Delivered
+1102,2026-08-12,27,WA,Headphones,Electronics,4,173.61,0.0,Delivered
+1188,2026-08-13,4,NSW,Desk,Furniture,5,501.11,0.0,Delivered
+1134,2026-08-13,12,WA,Office Chair,Furniture,6,332.15,,Cancelled
+1161,2026-08-17,22,VIC,Backpack,Accessories,5,93.81,0.0,Cancelled
+1097,2026-08-18,5,WA,Headphones,Electronics,6,188.72,0.0,Delivered
+1032,2026-08-20,30,NSW,Headphones,Electronics,2,191.61,15.0,Cancelled
+1196,2026-08-25,33,VIC,Laptop,Electronics,5,1357.01,0.0,Delivered
+1175,2026-08-28,1,NSW,Notebook,Stationery,1,5.41,10.0,Delivered
+1189,2026-08-29,34,VIC,Headphones,Electronics,4,190.77,0.0,Delivered
+1158,2026-08-29,36,VIC,Office Chair,Furniture,6,369.27,5.0,Delivered
+1162,2026-08-29,2,NSW,Notebook,Stationery,4,5.58,0.0,Cancelled
+1104,2026-08-30,35,NSW,Laptop,Electronics,2,1504.81,0.0,Delivered
+1164,2026-08-30,8,NSW,Desk,Furniture,4,482.37,5.0,Cancelled
+1020,2026-09-01,21,SA,Desk,Furniture,1,472.26,15.0,Delivered
+1145,2026-09-02,34,NSW,Backpack,Accessories,3,90.15,0.0,Delivered
+1002,2026-09-03,32,NSW,Pen Pack,Stationery,6,12.63,10.0,Delivered
+1124,2026-09-05,33,NSW,Desk,Furniture,2,567.82,10.0,Delivered
+1064,2026-09-07,17,NSW,Backpack,Accessories,5,82.53,5.0,Delivered
+1148,2026-09-10,24,QLD,Headphones,Electronics,6,177.53,0.0,Cancelled
+1182,2026-09-10,34,NSW,Headphones,Electronics,7,195.08,0.0,Shipped
+1086,2026-09-11,10,SA,Notebook,Stationery,6,5.81,5.0,Delivered
+1119,2026-09-11,20,NSW,Headphones,Electronics,6,185.51,0.0,Delivered
+1183,2026-09-13,5,VIC,Desk,Furniture,5,515.26,0.0,Delivered
+1093,2026-09-15,31,VIC,Pen Pack,Stationery,6,11.36,5.0,Cancelled
+1140,2026-09-15,1,QLD,Desk,Furniture,4,511.33,0.0,Delivered
+1074,2026-09-16,19,NSW,Headphones,Electronics,4,187.23,10.0,Cancelled
+1137,2026-09-18,19,NSW,Office Chair,Furniture,6,320.08,5.0,Delivered
+1008,2026-09-19,6,QLD,Notebook,Stationery,4,5.54,5.0,Delivered
+1155,2026-09-19,40,NSW,Desk,Furniture,3,539.06,5.0,Cancelled
+1125,2026-09-21,13,QLD,Pen Pack,Stationery,6,11.05,5.0,Delivered
+1156,2026-09-25,21,NSW,Notebook,Stationery,5,5.67,0.0,Delivered
+1147,2026-09-25,18,,Laptop,Electronics,4,1353.27,15.0,Delivered
+1065,2026-09-25,1,QLD,Desk,Furniture,6,503.56,5.0,Cancelled
